@@ -120,3 +120,33 @@ Por ejemplo, entre las medidas de posición central, una muy sensible a éstos e
     * Realizar un contraste bilateral de comparación de proporciones 
     * Realizar un contraste bilateral de comparación entre las medias para muestras independientes
     * >Realizar un contraste unilateral de comparación de proporciones
+
+* La mediana, como medida de dispersión:
+    * Es más fina que la moda.
+    * > Es inútil, porque no es una medida de dispersión.
+    * No tiene unidades.
+    * Es más fina que la media.
+
+* Puede obtenerse un coeficiente de variación negativo cuando:
+    * La media es negativa.
+    * La mayor parte de los datos tiene signo negativo.
+    * > Nunca puede ser negativo.
+    * La desviación típica es negativa.
+
+* Una distribución bidimensional con un $S_xy=1$
+    * >La dependencia es directa entre las variables 
+    * Existe incorrelación
+    * Las dos rectas de regresión coinciden
+    * La dependencia entre las variables es perfecta
+
+* Si queremos estudiar la asociación entre dos variables cualitativas:
+    * El coeficiente de correlación de Spearman
+    * El coeficiente de correlación de Pearson No. Este coeficiente se utiliza cuando las variables son de tipo cuantitativo.
+    * La covarianza entre las variables
+    * >El coeficiente de contingencia
+
+* En un contraste de hipótesis estadístico, si la hipótesis nula fuera cierta y se rechazara:
+    * La potencia aumenta
+    * Se comete un error de tipo II
+    * >Se comete un error de tipo I 
+    * Se toma una decisión correcta
